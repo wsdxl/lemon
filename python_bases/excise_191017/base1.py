@@ -17,3 +17,15 @@
 lalala
 '''
 
+'''
+多行语句
+'''
+sum='one'+\
+    'two'+\
+    'three'
+print(sum)
+
+'''
+转义字符:代码前面加r或者是R
+'''
+print(r'\n')
